@@ -1,1 +1,1 @@
-TESTE DE APLICAÇÃO PARA PÓS GRADUAÇÃO
+Teste de aplicação para a Pós-Graduação
